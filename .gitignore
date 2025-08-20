@@ -20,6 +20,7 @@ wheels/
 venv/
 
 # Django stuff
+*.sqlite3
 firstproject/db.sqlite3/
 /media/
 staticfiles/
