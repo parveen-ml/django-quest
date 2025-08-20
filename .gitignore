@@ -20,10 +20,9 @@ wheels/
 venv/
 
 # Django stuff
-*.sqlite3
-firstproject/db.sqlite3/
 /media/
 staticfiles/
+db.sqlite3
 
 # Secrets
 .env
