@@ -24,9 +24,6 @@ venv/
 staticfiles/
 db.sqlite3
 
-# Secrets
-.env
-
 # IDEs/OS
 .vscode/
 .idea/
