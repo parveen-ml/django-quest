@@ -8,3 +8,27 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual env
+.venv/
+venv/
+
+# Django stuff
+firstproject/db.sqlite3/
+/media/
+staticfiles/
+
+# Secrets
+.env
+
+# IDEs/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
